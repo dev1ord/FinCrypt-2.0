@@ -20,22 +20,6 @@ FinCrypt 2.0 integrates machine-learning forecasting with real-time crypto news:
 
 ---
 
-## **Project Structure**
-FinCrypt-2.0/
-│
-├── ui/
-│ └── app.py # Streamlit frontend
-│
-├── model/
-│ └── main.py # SVR prediction logic
-│
-├── bitcoin.csv # Sample Bitcoin price data
-├── execution.txt # To Run Streamlit
-├── requirements.txt # Project dependencies
-└── README.md # Project documentation
-
----
-
 ## **Features**
 
 ### **Bitcoin Price Prediction**
